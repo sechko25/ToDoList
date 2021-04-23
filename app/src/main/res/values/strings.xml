@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="note_text">Enter the task</string>
+    <string name="date_text">Enter date and time</string>
+    <string name="note_details_title">Creation</string>
+    <string name="save">Save</string>
+    <string name="completed">Done</string>
+</resources>

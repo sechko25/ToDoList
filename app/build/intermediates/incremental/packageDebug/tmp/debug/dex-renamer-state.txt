@@ -1,0 +1,4 @@
+#Fri Apr 23 17:30:38 MSK 2021
+base.0=D\:\\DO_1_sem\\PPO(Android)\\android_todo_list-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
